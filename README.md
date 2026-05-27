@@ -26,4 +26,4 @@
 6) Contact info
 - Email: stevenaraiza93@gmail.com
 - LinkedIn: https://linkedin.com/in/searaiza
-- Location: (Berwyn, IL)
+- Location: Berwyn, IL
