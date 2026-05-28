@@ -1,3 +1,4 @@
+WORK IN PROGRESS
 1) Steven Araiza
 - I have 5 years of experience as a network technician managing a tactical network infrastructure. Furthermore, 1.4 years as a network engineer in the second biggest school district in Illinois while overseeing two data centers. Currently in the Army reserves as an information technology specialist. I am eager to learn new technologies and always strive to improve my troubleshooting skills. Furthermore, I am CCNA, CompTIA Security+, Server+, and A+ certified.
 
