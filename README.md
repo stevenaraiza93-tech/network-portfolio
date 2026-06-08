@@ -18,7 +18,7 @@ WORK IN PROGRESS
 - Lab 3: Secure Office Segmentation (Servers/Printers/Mgmt VLAN + DHCP/DNS/HTTP/FTP)
   Evidence: topology screenshot, VLAN/IP table, router subinterfaces, ACLs, DHCP scopes, DNS records, HTTP page proof, ping/DNS tests
 - Lab 4: RFP Coffee (work in progress)
-- Lab 5: Active Directory (TBA)
+- Lab 5: Active Directory (work in progress)
 
 5) Resume
 - Resume: Attatched
