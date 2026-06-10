@@ -1,7 +1,0 @@
-mkdir Demonstrating Static Routes
-cd Demonstrating Static Routes
-echo "# Demonstrating Static Routes" > README.md
-cd ..
-git add .
-git commit -m "Add Demonstrating Static Routes folder"
-git push
