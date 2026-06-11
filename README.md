@@ -11,14 +11,14 @@ WORK IN PROGRESS
 - Tools: Cisco Packet Tracer, Cisco IOS CLI
 
 4) Projects with screenshots
-- Lab 1: Enterprise VLAN Segmentation + Inter-VLAN Routing (with ACL)
+- COMPLETED Lab 1: Enterprise VLAN Segmentation + Inter-VLAN Routing (with ACL)
   Evidence: topology screenshot, show vlan brief, show interfaces trunk, show ip interface brief
-- Lab 2: Multi-Router OSPF Routing Lab
+- COMPLETED Lab 2: Multi-Router OSPF Routing Lab
   Evidence: topology screenshot, show ip ospf neighbor
-- Lab 3: Secure Office Segmentation (Servers/Printers/Mgmt VLAN + DHCP/DNS/HTTP/FTP)
+- COMPLETED Lab 3: Secure Office Segmentation (Servers/Printers/Mgmt VLAN + DHCP/DNS/HTTP/FTP)
   Evidence: topology screenshot, VLAN/IP table, router subinterfaces, ACLs, DHCP scopes, DNS records, HTTP page proof, ping/DNS tests
-- Lab 4: RFP Coffee (work in progress)
-- Lab 5: Active Directory (work in progress)
+- Lab 4: RFP Coffee (in progress)
+- Lab 5: Active Directory (in progress)
 
 5) Resume
 - Resume: Attatched
