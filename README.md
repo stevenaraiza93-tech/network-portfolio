@@ -1,30 +1,37 @@
-WORK IN PROGRESS
-1) Steven Araiza
-- I have 5 years of experience as a network technician managing a tactical network infrastructure. Furthermore, 1.4 years as a network engineer in the second biggest school district in Illinois while overseeing two data centers. Currently in the Army reserves as an information technology specialist. I am eager to learn new technologies and always strive to improve my troubleshooting skills. Furthermore, I am CCNA, CompTIA Security+, Server+, and A+ certified.
+# Steven Araiza | Network & IT Support Portfolio
 
-2) Network role
-- Target Role: Network Engineer / Network Administrator (Entry-Level or junior/mid level)
-- Also open to: Network Technician / NOC Technician
+I am an Army Reserve IT Specialist with experience in network troubleshooting, Cisco networking, Microsoft environments, and end-user support. I hold CCNA, CompTIA Security+, Server+, and A+ certifications, and I am building this portfolio to demonstrate hands-on networking, security, and systems administration skills.
 
-3) Proof of skills
-- Demonstrated Skills: VLANs, trunking, inter-VLAN routing (router-on-a-stick), OSPF routing, ACL-based segmentation, DHCP relay (ip helper-address), DNS/HTTP/FTP services, switch management VLAN, basic troubleshooting/verification.
-- Tools: Cisco Packet Tracer, Cisco IOS CLI
+## Target Roles
+- Network Administrator
+- Network Technician
+- NOC Technician
+- IT Support Specialist
+- Junior Network Engineer
 
-4) Projects with screenshots
-- COMPLETED Lab 1: Enterprise VLAN Segmentation + Inter-VLAN Routing (with ACL)
-  Evidence: topology screenshot, show vlan brief, show interfaces trunk, show ip interface brief
-- COMPLETED Lab 2: Multi-Router OSPF Routing Lab
-  Evidence: topology screenshot, show ip ospf neighbor
-- COMPLETED Lab 3: Secure Office Segmentation (Servers/Printers/Mgmt VLAN + DHCP/DNS/HTTP/FTP)
-  Evidence: topology screenshot, VLAN/IP table, router subinterfaces, ACLs, DHCP scopes, DNS records, HTTP page proof, ping/DNS tests
-- Lab 4: RFP Coffee (in progress)
-- Lab 5: Active Directory (in progress)
+## Featured Projects
 
-5) Resume
-- Resume: Attached
-- Certifications section: CCNA, CompTIA Security+ - Server+ - A+
+### Project 1: Enterprise VLAN Segmentation Lab
+Designed a segmented office network using VLANs, trunking, router-on-a-stick, and ACLs.
 
-6) Contact info
+### Project 2: Multi-Router OSPF Routing Lab
+Built a three-router dynamic routing environment using OSPF and verified neighbor relationships.
+
+### Project 3: Secure Office Network Design
+Designed a secure office network with VLANs, ACLs, servers, printers, DHCP, DNS, HTTP, FTP, and management VLANs.
+
+### Project 4: RFP Coffee Network Design
+In progress: business-style network proposal and documentation project.
+
+### Project 5: Active Directory Lab
+In progress: Windows Server, domain services, users, groups, OUs, and Group Policy.
+
+## Certifications
+- CCNA
+- CompTIA Security+
+- CompTIA Server+
+- CompTIA A+
+
+## Contact
 - Email: stevenaraiza93@gmail.com
 - LinkedIn: https://linkedin.com/in/searaiza
-- Location: Berwyn, IL
