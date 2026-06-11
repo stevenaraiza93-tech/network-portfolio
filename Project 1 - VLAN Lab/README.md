@@ -1,11 +1,20 @@
-Lab 1 – VLAN Segmentation + Inter-VLAN Routing
+# Project 1: Enterprise VLAN Segmentation Lab
 
-Project Name: Enterprise VLAN Segmentation Lab
+## Objective
+Configure VLANs and inter-VLAN routing for a segmented office network.
 
-Objective: Configure VLANs and inter-VLAN routing for a segmented office network
+## Skills Demonstrated
+- VLAN creation
+- Trunking
+- Router-on-a-stick
+- ACLs
+- IP addressing
+- Troubleshooting
 
-Skills Demonstrated: VLANs, trunking, router-on-a-stick, ACLs, IP addressing, troubleshooting
+## Validation
+- Verified VLAN membership with show vlan brief
+- Verified trunking with show interfaces trunk
+- Verified ACL behavior by blocking HR-to-Sales traffic
 
-Validation: Verified connectivity between approved VLANs and blocked HR-to-Sales access using ACLs
-
-Troubleshooting Example: Checked show interfaces trunk and show vlan brief to verify VLAN membership and trunk status.
+## What I Learned
+This lab helped me understand how segmentation improves network security and how ACLs enforce business rules.
