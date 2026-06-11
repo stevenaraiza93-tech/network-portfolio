@@ -1,0 +1,11 @@
+Step by step guide (if not specified leave other options defaulted)
+
+1. Edit virtual machine settings - Hardware - CD/DVD - select the ISO file
+
+2. Power on VM and ensure to press any key (if you don't press the key on time and get a "time out | EFI Network" screen, shut down the VM and power it back on - press enter
+
+3. Windows Server (Desktop Experience)
+
+4. Custom Install
+
+5. End

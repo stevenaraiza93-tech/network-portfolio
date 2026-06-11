@@ -1,0 +1,15 @@
+Step by step guide (if not specified leave other options defaulted)
+
+1. Typical
+
+2. Make sure to select the compatibility ISO file you downloaded
+
+3. Install OS later
+
+4. Guest OS "Microsoft Windows" version "Windows Server 2022"
+
+5. Name your VM
+
+6. Recommend 20 GB for disk size
+
+7. Click finish
