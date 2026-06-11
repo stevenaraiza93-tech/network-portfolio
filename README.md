@@ -3,7 +3,7 @@ WORK IN PROGRESS
 - I have 5 years of experience as a network technician managing a tactical network infrastructure. Furthermore, 1.4 years as a network engineer in the second biggest school district in Illinois while overseeing two data centers. Currently in the Army reserves as an information technology specialist. I am eager to learn new technologies and always strive to improve my troubleshooting skills. Furthermore, I am CCNA, CompTIA Security+, Server+, and A+ certified.
 
 2) Network role
-- Target Role: Network Engineer / Network Administrator (Entry-Level and or mid tier)
+- Target Role: Network Engineer / Network Administrator (Entry-Level or junior/mid level)
 - Also open to: Network Technician / NOC Technician
 
 3) Proof of skills
@@ -21,7 +21,7 @@ WORK IN PROGRESS
 - Lab 5: Active Directory (in progress)
 
 5) Resume
-- Resume: Attatched
+- Resume: Attached
 - Certifications section: CCNA, CompTIA Security+ - Server+ - A+
 
 6) Contact info
